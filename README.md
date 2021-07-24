@@ -109,8 +109,6 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 #### Coding Stats
  
  
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
 
 <!--START_SECTION:waka-->
 ```text
@@ -141,3 +139,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+ 
+  <img align="right" alt="GIF" src="https://github.com/XI1936/xi1936/blob/be9e74efdfaf80318e04ce6c1bb4f127d1685456/ezgif.com-gif-maker.gif" width="500" height="320" />
+ 
