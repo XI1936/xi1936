@@ -1,9 +1,9 @@
-### Hi there, I'm Saifuddin - aka [Saif][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  <img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=u4saif"/>
+### Hi there, I'm Saifuddin - aka [Saif][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="30px" alt="hi">  <img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=u4saif"/>
 
 #### I'm Bachelor, Web Developer, and Learner!
 Passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
 
- <img align="right" alt="GIF" src="https://www.gottaperson.com/images/freelancer.gif" width="500" height="320"/>
+ <img align="right" alt="GIF" src="https://github.com/XI1936/xi1936/blob/543f3b2ee468dbfd6dfbcdf91acd894f12428cae/Freelancer.gif" width="500" height="500"/>
  
 - 🔭 I’m currently working on a Angular!
 - 🌱 I’m currently learning everything 🤣
